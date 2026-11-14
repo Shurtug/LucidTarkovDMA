@@ -1,7 +1,7 @@
 # Lucid Tarkov DMA
 ## External Hardware DMA Player & Loot Radar for Escape from Tarkov
 
-https://lucid-script.pro/dma
+🌐 [Website](https://lucid-script.pro/dma) &nbsp;|&nbsp; 💬 [Discord](https://discord.gg/QPtxvk6MxU) &nbsp;|&nbsp; ⬇️ [Latest Release](https://github.com/Shurtug/LucidTarkovDMA/releases/latest)
 
 Download the latest launcher from the [Releases](https://github.com/Shurtug/LucidTarkovDMA/releases/latest) page. Join the [Discord](https://discord.gg/QPtxvk6MxU) for updates and support.
 
